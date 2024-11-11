@@ -1,7 +1,4 @@
-import matplotlib.pyplot as plt
-import numpy as np
 import psycopg2
-from mpl_toolkits.mplot3d import axes3d
 from config import config
 import os
 import pandas as pd
