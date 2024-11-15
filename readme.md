@@ -1,7 +1,7 @@
 # PostgreSQL Database MoviesDB
 
 ## General Info
-It started as a university project, where the goal was to set up and manage an Azure PostgreSQL Database with IMDB Data. Now that the Database is no longer on AzureCloud, we built an app to set it up locally and explore it easily. The code is written mainly in Python and it can work with any PostgreSQL Database.
+It started as a university project @AUEB, where the goal was to set up and manage an Azure PostgreSQL Database with IMDB Data. Now that the Database is no longer on AzureCloud, we built an app to set it up locally and explore it easily. The code is written mainly in Python and it can work with any PostgreSQL Database.
 
 ## Installation
 Firstly, some python packages are needed for the app to work properly.
